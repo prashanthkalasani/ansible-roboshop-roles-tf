@@ -1,5 +1,6 @@
 - name: "setup {{ component }} server"
   hosts: "{{ component }}"
+  connection: localhost
   become: yes
   roles:
   - "{{ component }}"
