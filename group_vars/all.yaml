@@ -1,0 +1,9 @@
+MONGODB_HOST: mongodb.dpspk142034.fun
+REDIS_HOST: redis.dpspk142034.fun
+CATALOGUE_HOST: catalogue.dpspk142034.fun
+CART_HOST: cart.dpspk142034.fun
+USER_HOST: user.dpspk142034.fun
+RABBITMQ_HOST: rabbitmq.dpspk142034.fun
+MYSQL_HOST: mysql.dpspk142034.fun
+SHIPPING_HOST: shipping.dpspk142034.fun
+PAYMENT_HOST: payment.dpspk142034.fun
